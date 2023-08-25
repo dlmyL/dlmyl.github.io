@@ -1,18 +1,16 @@
-# 文章列表
-
-## 第一部分：逐个突破
+# **No One But You**
+## **part 1：One By One**
 ### **① MySQL**
 ### **② Redis**
 
-## 第二部分：源码分析
-### **① Nacos 源码分析**
-### **② Sentinel 源码分析**
+## **part 2：Source Code Analysis**
+### **① Nacos**
+### **② Sentinel**
 
-## 第三部分：系统设计
+## **part 3：Systems Design**
 
-## 第四部分：开源项目
-### **① Crab4J 事件驱动框架**
-### **② Rasta 短链系统**
+## **part 4：Open Source Projects**
+### **① Crab4J**
+### **② Rasta**
 
-## 第五部分：技术杂谈
-
+## **part 5：Other**
